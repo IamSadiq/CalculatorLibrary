@@ -1,2 +1,3 @@
-"# CalculatorLibrary" 
-"Test-Driven development (TDD) with Continuos Integration (CI) using CicleCI"
+# CalculatorLibrary
+
+Illustrating Test-Driven development (TDD) with Continuous Integration (CI) using CicleCI
