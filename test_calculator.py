@@ -9,5 +9,5 @@ class TestCalculator:
         assert 11 == calc.subtract(21, 10)
 
     def test_multiply(self):
-        assert 120 == 10 * 12
+        assert 120 == calc.multiply(12, 10)
         
